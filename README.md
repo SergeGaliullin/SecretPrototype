@@ -8,8 +8,7 @@ virtualenv --no-site-packages kivyinstall
 
 2) Activate it
 
-cd kivyinstall
-source/bin/activate
+cd kivyinstall && source bin/activate
 
 3) Install Cython
 
